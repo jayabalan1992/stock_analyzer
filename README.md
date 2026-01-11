@@ -19,8 +19,8 @@ This application performs a comprehensive **14-Step Fundamental Analysis** on an
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/stock-ai-analyst.git
-    cd stock-ai-analyst
+    git clone https://github.com/jayabalan1992/stock_analyzer.git
+    cd stock_analyzer
     ```
 
 2.  **Create a virtual environment (Optional but Recommended):**
